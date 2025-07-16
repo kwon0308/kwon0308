@@ -1,8 +1,7 @@
 ## <h1 style="font-size: 40px;">🍀기록지🍀</h1> 
 </div>
 <div align="center">
-https://png.pngtree.com/background/20230520/original/pngtree-beautiful-winter-village-and-scenery-with-lighting-from-the-moon-picture-image_2671500.jpg
-
+https://tse3.mm.bing.net/th/id/OIP.ymWtCCIVgok0Ojge5VjlwQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3
 
 <!--
 **kwon0308/kwon0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
