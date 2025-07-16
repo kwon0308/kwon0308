@@ -1,8 +1,7 @@
 ## <h1 style="font-size: 40px;">🍀기록지🍀</h1> 
 </div>
 <div align="center">
-<img width="80%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+https://png.pngtree.com/background/20230520/original/pngtree-beautiful-winter-village-and-scenery-with-lighting-from-the-moon-picture-image_2671500.jpg
 
 
 <!--
