@@ -1,5 +1,7 @@
 ## <h1 style="font-size: 40px;">🍀기록지🍀</h1> 
-https://i.pinimg.com/originals/63/0c/27/630c27b7b919c5ff9f9477d831af0bb6.jpg
+</div>
+<div align="center">
+<img width="80%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 
